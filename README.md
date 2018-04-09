@@ -1,2 +1,2 @@
-# python_tutoral
-Michael's Python for Psychologist Tutorial
+# Michael's Python Tutorial (for Behavioural Scientists)
+

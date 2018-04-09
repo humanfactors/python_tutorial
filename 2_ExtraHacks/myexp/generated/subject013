@@ -1,0 +1,8 @@
+<experiment>
+
+    <Author>Michael Wilson</Author>
+    <note> Version 1 </note>
+    <WordList>mywordlist.txt</WordList>
+    <InterStimInterval>500</InterStimInterval>
+
+</experiment>
