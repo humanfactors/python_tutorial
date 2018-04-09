@@ -1,5 +1,7 @@
 # Python for Behavioural Scientists
 
+![./images/ppp_banner.png](Python for Behavioural Scientists)
+
 This workshop is aimed at behavioural scientists with little to no prior experience in programming who are interested in
 learning the fundamentals of Python. The materials (PDF slides) for this workshop offer some advice for those who are 'trying to get
 into programming' but are not sure where to begin. 
