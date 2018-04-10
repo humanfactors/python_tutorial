@@ -1,4 +1,4 @@
-# Python for Behavioural Scientists
+** 🛠 🗳 Feel free to add questions or features you want explained as issues in the Github ! 📚 ✅ **
 
 ![Python for Behavioural Scientists](slides/ppp_banner.png)
 
