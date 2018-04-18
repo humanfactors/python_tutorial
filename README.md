@@ -44,14 +44,14 @@ are looking for the ultimate challenge because you want to push your skills to t
 
 ## Useful Links
 
-https://www.guru99.com/python-tutorials.html
-https://nealcaren.github.io/python-tutorials/
+https://www.guru99.com/python-tutorials.html  
+https://nealcaren.github.io/python-tutorials/  
 
-https://www.codecademy.com/learn/python
-http://www.learnpython.org/
+https://www.codecademy.com/learn/python  
+http://www.learnpython.org/  
 
-https://developers.google.com/edu/python/
-http://www.tutorialspoint.com/python/
-https://www.python.org/about/gettingstarted/
+https://developers.google.com/edu/python/  
+http://www.tutorialspoint.com/python/  
+https://www.python.org/about/gettingstarted/  
 
 
